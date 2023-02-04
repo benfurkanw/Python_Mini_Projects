@@ -1,0 +1,1 @@
+Merhaba burada python dilinde yazdığım küçük çaplı projelerimi bulabilirsiniz
